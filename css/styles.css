@@ -1,0 +1,19 @@
+
+/* Estilo para el contenedor principal */
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Estilo para el mapa */
+.map-container {
+    width: 50%; /* Ajusta el ancho del contenedor del mapa según sea necesario */
+    height: 300px; /* Ajusta la altura del mapa según sea necesario */
+}
+
+/* Estilo para el contenedor de texto */
+.text-container {
+    width: 45%; /* Ajusta el ancho del contenedor de texto según sea necesario */
+}
+		
